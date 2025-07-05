@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | 💻 Competitive Programmer | C</h3>
+<h3 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | 💻 Competitive Programmer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React;Creating+immersive+UI+animations;Exploring+AI+integration+patterns" alt="Typing SVG" />
