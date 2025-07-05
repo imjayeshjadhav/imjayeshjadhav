@@ -8,10 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React;Creating+immersive+UI+animations;Exploring+AI+integration+patterns" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imjayeshjadhav&label=Profile+views&color=0e75b6&style=flat" alt="jayesh-view-count" />
-  <img src="https://img.shields.io/github/followers/imjayeshjadhav?label=Follow&style=social" alt="github-followers" />
-</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -22,7 +19,6 @@ Whether it's a seamless booking system or a 3D portfolio, I love turning logic i
 - 🎓 Pursuing Computer Engineering  
 - 💡 Believer in "less complexity, more usability"  
 - 🧩 Passionate about combining performance + design  
-- ❤️ Also love chai ☕, late-night debugging 🌙, and soft rain 🌧️
 
 ---
 
