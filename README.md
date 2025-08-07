@@ -98,7 +98,7 @@ Whether it's a seamless booking system or a 3D portfolio, I love turning logic i
 
 - 📧 Email: [14jayeshjadhav@gmail.com](mailto:14jayeshjadhav@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/imjayeshjadhav](https://www.linkedin.com/in/jayesh-jadhav-813b36291/)  
-- 🌐 Portfolio: [jj-3d-portfolio.vercel.app](https://jj-3d-portfolio.vercel.app)
+- 🌐 Portfolio: [jj-3d-portfolio.vercel.app](https://jj-portfolio-ten.vercel.app/)
 
 ---
 
