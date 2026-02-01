@@ -233,17 +233,56 @@ Built full-stack web apps (React, Next.js, Node.js) • Implemented RESTful APIs
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<table width="100%">
+  <tr>
+    <!-- LEFT SIDE : GIF -->
+    <td width="35%" align="center" valign="middle">
+      <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        width="300" 
+        alt="Coding GIF"
+      />
+    </td>
+    <!-- RIGHT SIDE : TABLE + TEXT -->
+    <td width="65%" align="left" valign="middle">
+      <table>
+        <tr>
+          <th align="center">Platform</th>
+          <th align="center">Status</th>
+          <th align="center">Achievement</th>
+        </tr>
+        <tr>
+          <td align="center"><b>LeetCode</b><br/>
+            <img src="https://img.shields.io/badge/-FFA116?logo=leetcode&logoColor=black&style=flat"/>
+          </td>
+          <td align="center">Active</td>
+          <td align="center"><b>120+ Problems</b></td>
+        </tr>
+        <tr>
+          <td align="center"><b>CodeChef</b><br/>
+            <img src="https://img.shields.io/badge/-5B4638?logo=codechef&logoColor=white&style=flat"/>
+          </td>
+          <td align="center">⭐⭐ 2-Star</td>
+          <td align="center">Regular Contests</td>
+        </tr>
+        <tr>
+          <td align="center"><b>Codeforces</b><br/>
+            <img src="https://img.shields.io/badge/-1F8ACB?logo=codeforces&logoColor=white&style=flat"/>
+          </td>
+          <td align="center">Newbie</td>
+          <td align="center">Rating: 1022</td>
+        </tr>
+      </table>
+      <br/>
+      <b>Expertise:</b><br/>
+      Arrays • Trees • Graphs • DP • Recursion & Backtracking
+    </td>
 
-| Platform | Status | Achievement |
-|:--------:|:------:|:-----------:|
-| **LeetCode** <img src="https://img.shields.io/badge/-FFA116?logo=leetcode&logoColor=black&style=flat"/> | Active | **120+ Problems** |
-| **CodeChef** <img src="https://img.shields.io/badge/-5B4638?logo=codechef&logoColor=white&style=flat"/> | ⭐⭐ 2-Star | Regular Contests |
-| **Codeforces** <img src="https://img.shields.io/badge/-1F8ACB?logo=codeforces&logoColor=white&style=flat"/> | NewBie | Rating: 1022 |
-
-**Expertise:** Arrays • Trees • Graphs • DP • Recursion & Backtracking
+  </tr>
+</table>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -282,73 +321,80 @@ class JJ_RoadMap:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
-
-### 📬 Reach Out
-
-<a href="mailto:14jayeshjadhav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-14jayeshjadhav@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/jayesh-jadhav-813b36291/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_JJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br/>
-<a href="https://jj-portfolio-ten.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore_Projects-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-### 💡 Open For
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"/><br/>
-  <b>Collaborations</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="45"/><br/>
-  <b>Opportunities</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"/><br/>
-  <b>Research</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="45"/><br/>
-  <b>Mentorship</b>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <!-- LEFT SIDE : Reach Out + Open For -->
+    <td width="65%" valign="middle" align="left">
+      <h3>📬 Reach Out</h3>
+      <a href="mailto:14jayeshjadhav@gmail.com">
+        <img src="https://img.shields.io/badge/Email-14jayeshjadhav@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/jayesh-jadhav-813b36291/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect_with_JJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="https://jj-portfolio-ten.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-Explore_Projects-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <h3>💡 Open For</h3>
+      <table>
+        <tr>
+          <td align="center" width="25%">
+            <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"/><br/>
+            <b>Collaborations</b>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="45"/><br/>
+            <b>Opportunities</b>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"/><br/>
+            <b>Research</b>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="45"/><br/>
+            <b>Mentorship</b>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- RIGHT SIDE : GIF -->
+    <td width="35%" valign="middle" align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+        width="250"
+        alt="Contact animation"
+      />
+    </td>
+  </tr>
 </table>
 
----
+</div>
+
+  
+<div align="center">
 
 ### 🎯 The JJ Philosophy
 
 > *"Build scalable today, optimize for tomorrow, document for forever."*
-
 **When not coding:** Solving chess puzzles • Reading tech blogs • Exploring frameworks
 
 **Fun Fact:**
-
 > *I once debugged a relationship harder than my Java code — and trust me, Java was easier.*
 
 ---
-
-<p align="center">
-  <i>
-    "Good systems are not built fast — they are built thoughtfully."
-  </i>
-</p>
-
-<br/>
-
+<i>
+"Good systems are not built fast — they are built thoughtfully."
+</i>
+<br/><br/>
 **Thanks for visiting! The mystery continues... 🕵️‍♂️**
-
+<br/><br/>
 <img src="https://img.shields.io/badge/Crafted_with_💙_by-JJ-3B82F6?style=for-the-badge"/>
-
-<br/>
-
+<br/><br/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+/>
