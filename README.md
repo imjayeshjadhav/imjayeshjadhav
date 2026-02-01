@@ -1,36 +1,33 @@
 <div align="center">
-  
-<!-- Animated Header with JJ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Hi,%20I'm%20JJ%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32"/>
- 
-  <!-- Typing Animation (GitHub-safe) -->
-<p align="center">
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle" align="left">
+      <img
+        src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi%2C%20I%27m%20JJ&fontSize=54&fontColor=ffffff&fontAlignY=50"
+        width="100%"
+        alt="Hi I'm JJ"
+      />
+      <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&lines=Software+Engineer+%7C+Backend+%2B+AIML+Systems;SIH+2025+National+Winner;Building+Scalable+Systems+with+Java+and+AI"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&lines=Software+Engineer+%7C+Backend+%2B+AIML+Systems;SIH+2025+National+Winner;Building+Scalable+Systems+with+Java+and+AI"
     alt="Typing SVG"
   />
 </p>
-
-
-<!-- Animated Developer SVG -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayesh-jadhav-813b36291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:14jayeshjadhav@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/imjayeshjadhav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/imjayeshjadhav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://jj-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imjayeshjadhav&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/imjayeshjadhav?label=Followers&style=for-the-badge&color=10B981" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Status-Available_for_Work-10B981?style=for-the-badge" alt="Status"/>
-</p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+        width="300"
+        alt="Coding animation"
+      />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -72,6 +69,7 @@
 <td width="50%" valign="top">
 
 **Languages:**
+
 ```java
 String[] languages = {
     "C/C++",           // Competitive Programming
@@ -82,6 +80,7 @@ String[] languages = {
 ```
 
 **Frontend:**
+
 ```javascript
 const frontend = {
   frameworks: ["React.js", "Next.js"],
@@ -95,6 +94,7 @@ const frontend = {
 <td width="50%" valign="top">
 
 **Backend & APIs:**
+
 ```javascript
 const backend = {
   runtime: "Node.js",
@@ -105,6 +105,7 @@ const backend = {
 ```
 
 **AI/ML & Databases:**
+
 ```python
 ml_stack = {
     'libraries': ['TensorFlow', 'PyTorch', 
@@ -121,6 +122,7 @@ ml_stack = {
 </table>
 
 **Learning Path (2026):**
+
 ```yaml
 Eager to Learn:
   DevOps: [Docker, Kubernetes, CI/CD]
@@ -161,6 +163,7 @@ Eager to Learn:
 <td width="50%" valign="top">
 
 ### 🤖 Auto Recruit
+
 <img src="https://img.shields.io/badge/AI_Powered-4285F4?style=for-the-badge&logo=google"/>
 
 AI recruitment platform with real-time interview simulations, speech-to-text analysis, smart profiling & admin analytics.
@@ -175,6 +178,7 @@ AI recruitment platform with real-time interview simulations, speech-to-text ana
 <td width="50%" valign="top">
 
 ### ✈️ Travista
+
 <img src="https://img.shields.io/badge/Full_Stack-3B82F6?style=for-the-badge"/>
 
 Travel booking platform with dual workflows, real-time management, trip customization & modular architecture.
@@ -206,6 +210,7 @@ Cross-platform mobile app: Expense tracking • Budget alerts • Visual analyti
 <div align="center">
 
 ### 🏢 Software Engineering Intern @ KumarInfotech
+
 **📅 Jun 2025 – Aug 2025** | **📍 Hybrid**
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80"/>
@@ -234,17 +239,17 @@ Built full-stack web apps (React, Next.js, Node.js) • Implemented RESTful APIs
 |:--------:|:------:|:-----------:|
 | **LeetCode** <img src="https://img.shields.io/badge/-FFA116?logo=leetcode&logoColor=black&style=flat"/> | Active | **120+ Problems** |
 | **CodeChef** <img src="https://img.shields.io/badge/-5B4638?logo=codechef&logoColor=white&style=flat"/> | ⭐⭐ 2-Star | Regular Contests |
-| **Codeforces** <img src="https://img.shields.io/badge/-1F8ACB?logo=codeforces&logoColor=white&style=flat"/> | Pupil | Rating: 1022 |
+| **Codeforces** <img src="https://img.shields.io/badge/-1F8ACB?logo=codeforces&logoColor=white&style=flat"/> | NewBie | Rating: 1022 |
 
 **Expertise:** Arrays • Trees • Graphs • DP • Recursion & Backtracking
 
 </div>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="30" /> Learning Roadmap 2026
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="30" /> Learning Roadmap 
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
 
 ```python
 class JJ_RoadMap:
@@ -273,7 +278,7 @@ class JJ_RoadMap:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-60e7a2f5-94b4-4406-b0f0-be8ba8f5babd.png" width="30" /> Connect with JJ
+## <img src="https://skillicons.dev/icons?i=linkedin" width="30" /> Connect with JJ
 
 <div align="center">
 
@@ -325,16 +330,16 @@ class JJ_RoadMap:
 **When not coding:** Solving chess puzzles • Reading tech blogs • Exploring frameworks
 
 **Fun Fact:**
+
 > *I once debugged a relationship harder than my Java code — and trust me, Java was easier.*
 
 ---
 
 <p align="center">
   <i>
-    ""Good systems are not built fast — they are built thoughtfully."
+    "Good systems are not built fast — they are built thoughtfully."
   </i>
 </p>
-
 
 <br/>
 
