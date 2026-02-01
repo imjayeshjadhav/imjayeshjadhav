@@ -1,114 +1,349 @@
-<h1 align="center">
-  Hey there, I'm JJ 👨‍💻
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
-
-<h3 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | 💻 Competitive Programmer </h3>
-
+<div align="center">
+  
+<!-- Animated Header with JJ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Hi,%20I'm%20JJ%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ 
+  <!-- Typing Animation (GitHub-safe) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React;Creating+immersive+UI+animations;Exploring+AI+integration+patterns" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&lines=Software+Engineer+%7C+Backend+%2B+AIML+Systems;SIH+2025+National+Winner;Building+Scalable+Systems+with+Java+and+AI"
+    alt="Typing SVG"
+  />
 </p>
 
+
+<!-- Animated Developer SVG -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayesh-jadhav-813b36291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:14jayeshjadhav@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/imjayeshjadhav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/imjayeshjadhav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://jj-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imjayeshjadhav&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/imjayeshjadhav?label=Followers&style=for-the-badge&color=10B981" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-10B981?style=for-the-badge" alt="Status"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
+**Pre-final year Computer Engineering student** at **MIT Academy of Engineering, Pune**. **SIH 2025 National Winner** with a passion for **Java-powered solutions**, backend systems, and AI/ML integration. I build intelligent systems that solve real-world problems.
+
+**🎯 Core Expertise:**
+- ☕ **Java wizard** - DSA & OOP design patterns
+- 🏆 National-level problem solver
+- 💻 Full-stack web development (MERN, Next.js)
+- 🤖 AI/ML integration for smart applications
+- ⚡ Backend architecture with scalable APIs
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"/> Technical Arsenal
+
+<div align="center">
+
+### ☕ Core Programming (Java)
+
+<p>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+</p>
+
+**Java** - Object-Oriented Programming, Data Structures & Algorithms, Design Patterns
+
 ---
 
-### 🧑‍💻 About Me
-
-Hey! I'm Jayesh — a code crafter from 🇮🇳 who builds robust backends, elegant frontends, and adds that ✨extra✨ magic to every UI.  
-Whether it's a seamless booking system or a 3D portfolio, I love turning logic into interactive beauty.
-
-- 🎓 Pursuing Computer Engineering  
-- 💡 Believer in "less complexity, more usability"  
-- 🧩 Passionate about combining performance + design  
-
----
-
-### 💼 What I Do
+### 💻 Full Tech Stack
 
 <table>
 <tr>
-  <td><b>💻 Frontend & Animations</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  </td>
+<td width="50%" valign="top">
+
+**Languages:**
+```java
+String[] languages = {
+    "C/C++",           // Competitive Programming
+    "Java",            // DSA & OOP (Core)
+    "Python",          // AI/ML & Backend
+    "JavaScript"       // Full-Stack Web
+};
+```
+
+**Frontend:**
+```javascript
+const frontend = {
+  frameworks: ["React.js", "Next.js"],
+  mobile: "React Native",
+  auth: "NextAuth",
+  core: ["HTML5", "CSS3"]
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & APIs:**
+```javascript
+const backend = {
+  runtime: "Node.js",
+  framework: "Express.js",
+  architecture: "RESTful APIs",
+  security: "JWT Authentication"
+};
+```
+
+**AI/ML & Databases:**
+```python
+ml_stack = {
+    'libraries': ['TensorFlow', 'PyTorch', 
+                  'Scikit-learn'],
+    'data': ['Pandas', 'NumPy'],
+    'databases': ['MySQL/SQL', 'MongoDB'],
+    'orm': 'Prisma',
+    'tools': ['Git', 'Postman']
+}
+```
+
+</td>
 </tr>
+</table>
+
+**Learning Path (2026):**
+```yaml
+Eager to Learn:
+  DevOps: [Docker, Kubernetes, CI/CD]
+  Cloud: [AWS, Azure]
+  Advanced: [GraphQL, Microservices, Redis]
+```
+
+---
+
+**Tech Visualization:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,postman&perline=7" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30" /> Projects
+
+<div align="center">
+
+### 🏆 SIH 2025 Winner - Automated Timetable Scheduler
+
+<img src="https://img.shields.io/badge/🥇_National_Winner-FFD700?style=for-the-badge"/> <img src="https://img.shields.io/badge/481_Teams-FF6B6B?style=for-the-badge"/> <img src="https://img.shields.io/badge/AICTE-00C851?style=for-the-badge"/>
+
+**Challenge:** University scheduling → Constraint satisfaction problem  
+**Solution:** Heuristic search + constraint programming algorithms  
+**Impact:** #1 nationwide | AICTE & J&K Government recognized | NEP 2020 compliant
+
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb,react" />
+
+---
+
+<table>
 <tr>
-  <td><b>🧪 Backend & APIs</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  </td>
+<td width="50%" valign="top">
+
+### 🤖 Auto Recruit
+<img src="https://img.shields.io/badge/AI_Powered-4285F4?style=for-the-badge&logo=google"/>
+
+AI recruitment platform with real-time interview simulations, speech-to-text analysis, smart profiling & admin analytics.
+
+**Stack:** React, Node.js, MongoDB, Gemini AI
+
+<a href="https://github.com/imjayeshjadhav/ai_interview">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Travista
+<img src="https://img.shields.io/badge/Full_Stack-3B82F6?style=for-the-badge"/>
+
+Travel booking platform with dual workflows, real-time management, trip customization & modular architecture.
+
+**Stack:** MERN (MongoDB, Express, React, Node.js)
+
+<a href="https://github.com/imjayeshjadhav/travista">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
 </tr>
+</table>
+
+### 💰 JJ-Expense Tracker
+
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Real--time-10B981?style=for-the-badge"/>
+
+Cross-platform mobile app: Expense tracking • Budget alerts • Visual analytics • Secure auth
+
+<a href="https://github.com/imjayeshjadhav/JJ-ExpenseTracker"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/></a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Experience & Honors
+
+<div align="center">
+
+### 🏢 Software Engineering Intern @ KumarInfotech
+**📅 Jun 2025 – Aug 2025** | **📍 Hybrid**
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80"/>
+
+Built full-stack web apps (React, Next.js, Node.js) • Implemented RESTful APIs • Agile collaboration • Performance optimization
+
+---
+
+### 🏆 Smart India Hackathon 2025 Winner
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80"/>
+
+**Team Lead** | #1 nationwide (481 teams) | AICTE & J&K Govt recognized
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="30"/> Competitive Programming
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+| Platform | Status | Achievement |
+|:--------:|:------:|:-----------:|
+| **LeetCode** <img src="https://img.shields.io/badge/-FFA116?logo=leetcode&logoColor=black&style=flat"/> | Active | **120+ Problems** |
+| **CodeChef** <img src="https://img.shields.io/badge/-5B4638?logo=codechef&logoColor=white&style=flat"/> | ⭐⭐ 2-Star | Regular Contests |
+| **Codeforces** <img src="https://img.shields.io/badge/-1F8ACB?logo=codeforces&logoColor=white&style=flat"/> | Pupil | Rating: 1022 |
+
+**Expertise:** Arrays • Trees • Graphs • DP • Recursion & Backtracking
+
+</div>
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="30" /> Learning Roadmap 2026
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
+
+```python
+class JJ_RoadMap:
+    currently_mastering = {
+        "backend": ["Advanced Java", "Spring Boot", "GraphQL"],
+        "frontend": ["Next.js 15", "TypeScript", "Advanced React"],
+        "ai_ml": ["LangChain", "Vector Databases", "LLMs"],
+        "databases": ["PostgreSQL", "Redis", "Advanced MongoDB"]
+    }
+    
+    eager_to_learn = {
+        "devops": ["Docker", "Kubernetes", "CI/CD Pipelines"],
+        "cloud": ["AWS", "Azure", "Cloud Architecture"],
+        "advanced": ["Microservices", "System Design", "Neo4j"]
+    }
+    
+    goals = [
+        "🏗️ Build production-grade scalable systems",
+        "🌐 Contribute to open-source projects",
+        "📐 Master system design & architecture",
+        "🔬 Research in AI & constraint optimization"
+    ]
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-60e7a2f5-94b4-4406-b0f0-be8ba8f5babd.png" width="30" /> Connect with JJ
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
+
+### 📬 Reach Out
+
+<a href="mailto:14jayeshjadhav@gmail.com">
+  <img src="https://img.shields.io/badge/Email-14jayeshjadhav@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/jayesh-jadhav-813b36291/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_JJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br/>
+<a href="https://jj-portfolio-ten.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_Projects-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+### 💡 Open For
+
+<table>
 <tr>
-  <td><b>⚙️ Java Engineering</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swing-ED8B00?style=flat" />
-    <img src="https://img.shields.io/badge/DSA-000000?style=flat" />
-  </td>
-</tr>
-<tr>
-  <td><b>🛠️ Tools & Platforms</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td><b>🧠 Exploring</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF9900?style=flat" />
-    <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat" />
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react" />
-  </td>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"/><br/>
+  <b>Collaborations</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="45"/><br/>
+  <b>Opportunities</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"/><br/>
+  <b>Research</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="45"/><br/>
+  <b>Mentorship</b>
+</td>
 </tr>
 </table>
 
 ---
 
-### 🚀 Projects That Define Me
+### 🎯 The JJ Philosophy
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| 📱 [**JJ-Expense Tracker**](https://github.com/imjayeshjadhav/JJ-ExpenseTracker) | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) ![Clerk](https://img.shields.io/badge/-Clerk-000000) | • Real-time expense analytics <br> • Budget management with alerts <br> • Secure authentication |
-| 🗒️ [**JJ-Notebook**](https://github.com/imjayeshjadhav/JJ-Notebook) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000000?logo=express) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) | • Real-time note syncing <br> • Rich text editing <br> • Secure cloud storage |
-| 🤖 [**AI Interview App**](https://github.com/imjayeshjadhav/ai_interview) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?logo=google) | • Personalized interview simulations <br> • Speech-to-text analysis <br> • Performance analytics |
-| 🌍 [**JJ Travista**](https://github.com/your-repo) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite) ![Syncfusion](https://img.shields.io/badge/-Syncfusion-00A67D) | • AI-powered trip recommendations <br> • Admin dashboard <br> • Booking management |
-| 🏦 [**JJBank**](https://github.com/imjayeshjadhav/jjbank) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Swing](https://img.shields.io/badge/-Swing-ED8B00) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) | • Secure transactions <br> • Account management <br> • Transaction history |
-| 🧑‍💻 [**JJ-3D Portfolio**](https://github.com/imjayeshjadhav/JJ-3D.Portfolio) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock) | • Interactive 3D environment <br> • Scroll-triggered animations <br> • Responsive design |
+> *"Build scalable today, optimize for tomorrow, document for forever."*
 
----
+**When not coding:** Solving chess puzzles • Reading tech blogs • Exploring frameworks
 
-### 📚 Currently Learning
-
-- 📦 Advanced **Spring Boot**, Microservices, and Docker 🐳  
-- 🤖 Building smart AI tools with **LangChain**, **LLMs**, and **Vector DBs** 🧠  
-- 🧱 Architecting scalable systems using **JWT**, **Redis**, and **RESTful APIs** 📡
-  
----
-
-### 📬 Let's Connect
-
-- 📧 Email: [14jayeshjadhav@gmail.com](mailto:14jayeshjadhav@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/imjayeshjadhav](https://www.linkedin.com/in/jayesh-jadhav-813b36291/)  
-- 🌐 Portfolio: [jj-3d-portfolio.vercel.app](https://jj-portfolio-ten.vercel.app/)
-
----
-
-### ⚡ Fun Fact
-
-> I once debugged a relationship harder than my Java code — and trust me, Java was easier.  
+**Fun Fact:**
+> *I once debugged a relationship harder than my Java code — and trust me, Java was easier.*
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjayeshjadhav&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imjayeshjadhav&theme=tokyonight" width="47%" />
+  <i>
+    ""Good systems are not built fast — they are built thoughtfully."
+  </i>
 </p>
+
+
+<br/>
+
+**Thanks for visiting! The mystery continues... 🕵️‍♂️**
+
+<img src="https://img.shields.io/badge/Crafted_with_💙_by-JJ-3B82F6?style=for-the-badge"/>
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
