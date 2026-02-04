@@ -33,13 +33,13 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" alt="Machine Learning" width="380" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 **Pre-final year Computer Engineering student** at **MIT Academy of Engineering, Pune**. **SIH 2025 National Winner** with a passion for **Java-powered solutions**, backend systems, and AI/ML integration. I build intelligent systems that solve real-world problems.
 
 **🎯 Core Expertise:**
-- ☕ **Java wizard** - DSA & OOP design patterns
-- 🏆 National-level problem solver
+- ☕ **Java** - DSA & OOP design patterns
+- 🏆 Problem Solving
 - 💻 Full-stack web development (MERN, Next.js)
 - 🤖 AI/ML integration for smart applications
 - ⚡ Backend architecture with scalable APIs
