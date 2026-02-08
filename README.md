@@ -58,7 +58,7 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 </p>
 
-**Java** - Object-Oriented Programming, Data Structures & Algorithms, Design Patterns
+**Java** - Object-Oriented Programming, Data Structures & Algorithms. 
 
 ---
 
