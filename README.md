@@ -109,7 +109,7 @@ const backend = {
 ```python
 ml_stack = {
     'libraries': ['TensorFlow', 'PyTorch', 
-                  'Scikit-learn'],
+                  'Scikit-learn', 'Keras'],
     'data': ['Pandas', 'NumPy'],
     'databases': ['MySQL/SQL', 'MongoDB'],
     'orm': 'Prisma',
